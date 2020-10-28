@@ -2102,3 +2102,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.28-13.15.05:683][870]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
 [2020.10.28-13.15.05:683][870]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
 [2020.10.28-13.15.05:807][870]EditorErrors: Warning: No assets to check in!
+[2020.10.28-13.17.23:352][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.10.28-13.17.24:104][529]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Level1_Dev_Auto18F09601F4266951425F72C934CDB51B8.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Autosaves/Game/Maps/Level1_Dev_Auto1.umap'
+[2020.10.28-13.17.24:107][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1_Dev' took 0.764
+[2020.10.28-13.17.24:107][529]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.764
+[2020.10.28-13.19.27:031][382]LogActorFactory: Actor Factory created Plane
+[2020.10.28-13.19.29:039][582]LogActorFactory: Actor Factory created Plane
+[2020.10.28-13.19.34:985][165]Cmd: DELETE
+[2020.10.28-13.19.34:985][165]Cmd: ACTOR DELETE
+[2020.10.28-13.19.35:002][165]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.28-13.19.35:012][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.28-13.19.35:015][165]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.10.28-13.21.33:789][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_Dev" FILE="../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Maps/Level1_Dev.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-13.21.33:800][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.10.28-13.21.34:536][196]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Level1_DevF9E1E0F9467AC72EDDDF05B446F1BA3F.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Maps/Level1_Dev.umap'
+[2020.10.28-13.21.34:685][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_Dev_BuiltData" FILE="../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Maps/Level1_Dev_BuiltData.uasset" SILENT=true
+[2020.10.28-13.21.35:879][196]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Level1_Dev_BuiltDataC879E40E400BC434ADA8F5861A7BD848.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Maps/Level1_Dev_BuiltData.uasset'
+[2020.10.28-13.21.35:890][196]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-13.21.35:890][196]LogContentValidation: Display: Validating World /Game/Maps/Level1_Dev.Level1_Dev
+[2020.10.28-13.21.35:890][196]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_Dev_BuiltData.Level1_Dev_BuiltData
