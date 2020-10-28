@@ -710,3 +710,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.28-12.44.53:689][138]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.28-12.44.53:689][138]LogContentValidation: Display: Validating World /Game/Maps/Level1_Dev.Level1_Dev
 [2020.10.28-12.44.53:689][138]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_Dev_BuiltData.Level1_Dev_BuiltData
+[2020.10.28-13.05.27:851][822]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.28-13.05.27:851][822]LogWindows: Warning: URL: C:/Users/5922002512/AppData/Local/Programs/Git/bin/git.exe version
+[2020.10.28-13.05.27:851][822]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2020.10.28-13.06.11:054][742]LogSlate: Window 'Source Control Login' being destroyed
