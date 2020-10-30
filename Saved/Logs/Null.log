@@ -3420,3 +3420,192 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.30-14.10.19:507][735]SourceControl: [Level1_Dev 9c96b74] Worked some more on the map, cubes are missing and kinda difficult to build mock prototype
 [2020.10.30-14.10.19:507][735]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2020.10.30-14.10.19:519][735]SourceControl: Commited [Level1_Dev 9c96b74] Worked some more on the map, cubes are missing and kinda difficult to build mock prototype.
+[2020.10.30-14.12.34:583][406]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.30-14.12.45:031][345]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.30-14.12.58:336][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_Dev" FILE="../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Maps/Level1_Dev.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.30-14.12.58:348][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.10.30-14.12.59:095][672]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Level1_DevB79EFAB346248FCB64C8618867B1A356.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Maps/Level1_Dev.umap'
+[2020.10.30-14.12.59:257][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_Dev_BuiltData" FILE="../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Maps/Level1_Dev_BuiltData.uasset" SILENT=true
+[2020.10.30-14.13.00:467][672]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Level1_Dev_BuiltDataABA8569B4BE20EFCEB08F5B1473542F5.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Maps/Level1_Dev_BuiltData.uasset'
+[2020.10.30-14.13.00:497][672]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.30-14.13.00:497][672]LogContentValidation: Display: Validating World /Game/Maps/Level1_Dev.Level1_Dev
+[2020.10.30-14.13.00:498][672]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_Dev_BuiltData.Level1_Dev_BuiltData
+[2020.10.30-14.14.48:991][188]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Joeys_Code/Player_Huds/Main_HUD.Main_HUD
+[2020.10.30-14.14.49:202][188]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2020.10.30-14.14.50:288][188]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.30-14.14.54:748][395]LogSlate: Window 'Main_HUD' being destroyed
+[2020.10.30-14.15.46:625][287]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.16.34:231][210]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.30-14.16.42:951][871]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.30-14.18.28:336][603]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.30-14.18.50:403][132]LogSlate: Took 0.007385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.30-14.18.58:520][986]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.30-14.18.58:597][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.10.30-14.19.30:711][571]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.30-14.19.30:761][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.10.30-14.20.46:589][370]LogEditorTransaction: Undo Delete current selection
+[2020.10.30-14.20.46:839][377]LogEditorTransaction: Undo Move Node
+[2020.10.30-14.20.47:288][407]LogEditorTransaction: Undo Add In Parameter
+[2020.10.30-14.20.47:556][433]LogEditorTransaction: Undo Create Pin Link
+[2020.10.30-14.20.47:900][473]LogEditorTransaction: Undo Add Node
+[2020.10.30-14.20.48:266][515]LogEditorTransaction: Undo Delete current selection
+[2020.10.30-14.20.48:620][553]LogEditorTransaction: Undo Delete current selection
+[2020.10.30-14.20.49:011][599]LogEditorTransaction: Undo Move Node
+[2020.10.30-14.20.49:379][640]LogEditorTransaction: Undo Move Node
+[2020.10.30-14.20.49:759][685]LogEditorTransaction: Undo Move Node
+[2020.10.30-14.20.50:133][729]LogEditorTransaction: Undo Move Node
+[2020.10.30-14.20.50:729][800]LogEditorTransaction: Undo Create Pin Link
+[2020.10.30-14.20.55:651][112]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.30-14.20.57:121][283]LogEditorTransaction: Undo Change Color Pin Value
+[2020.10.30-14.21.56:492][411]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.21.56:493][411]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar ': Member:Get_Battery Unable to bind FloatProperty, unsupported type.
+[2020.10.30-14.21.56:521][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.10.30-14.24.43:585][ 89]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.24.43:586][ 89]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.24.43:615][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.10.30-14.24.58:051][805]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.24.59:092][930]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.24.59:267][951]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.24.59:550][985]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.24.59:985][ 37]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.00:177][ 60]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.26:724][449]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.25.26:725][449]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.25.26:725][449]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.25.26:751][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.10.30-14.25.30:239][857]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.30:781][922]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.30:930][940]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.32:226][ 95]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.34:059][311]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.30-14.25.34:059][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.30-14.25.34:084][311]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.30-14.25.34:084][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.30-14.25.35:427][444]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.30-14.25.35:427][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.30-14.25.40:976][956]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Joeys_Code/Player_Huds/Main_HUD.Main_HUD
+[2020.10.30-14.25.42:372][ 40]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.25.42:374][ 40]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.25.42:374][ 40]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.25.42:431][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.10.30-14.25.42:505][ 47]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.25.42:507][ 47]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.25.42:507][ 47]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.25.42:551][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.10.30-14.25.42:677][ 59]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.25.42:679][ 59]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.25.42:679][ 59]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.25.42:700][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.10.30-14.25.43:044][ 90]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.25.43:045][ 90]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.25.43:045][ 90]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.25.43:067][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.10.30-14.25.43:195][102]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.25.43:196][102]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.25.43:196][102]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.25.43:217][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.10.30-14.25.48:300][539]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.53:750][  8]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.53:924][ 23]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.54:902][107]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.55:067][121]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.55:242][136]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.55:442][153]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.55:629][169]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.55:849][188]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.56:025][203]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.25.56:280][225]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.26.00:676][592]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.30-14.26.28:747][605]LogSlate: Window 'Main_HUD' being destroyed
+[2020.10.30-14.26.53:964][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.10.30-14.26.53:970][731]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1_Dev' took 0.028
+[2020.10.30-14.26.53:970][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.10.30-14.26.53:995][731]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.10.30-14.26.53:995][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.10.30-14.26.54:046][731]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/ThirdPersonCharacter_Auto66020DD7649EA92D407C6BB930DD75063.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto6.uasset'
+[2020.10.30-14.26.54:048][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Joeys_Code/Battery_Pickup] ([1] browsable assets)...
+[2020.10.30-14.26.54:048][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Joeys_Code/Battery_Pickup]
+[2020.10.30-14.26.54:060][731]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Battery_Pickup_Auto6460979224E93E54E0417E9A0B11AB8F1.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Autosaves/Game/Joeys_Code/Battery_Pickup_Auto6.uasset'
+[2020.10.30-14.26.54:061][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Joeys_Code/Uranium_Pickup] ([1] browsable assets)...
+[2020.10.30-14.26.54:061][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Joeys_Code/Uranium_Pickup]
+[2020.10.30-14.26.54:072][731]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Uranium_Pickup_Auto63DB3FCA64AAAA56EA2FAAE8C5DD822E6.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Autosaves/Game/Joeys_Code/Uranium_Pickup_Auto6.uasset'
+[2020.10.30-14.26.54:074][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Joeys_Code/Player_Huds/Main_HUD] ([1] browsable assets)...
+[2020.10.30-14.26.54:074][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Joeys_Code/Player_Huds/Main_HUD]
+[2020.10.30-14.26.54:086][731]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Main_HUD_Auto6CCABB9E14C075B89322472854043E6BE.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Autosaves/Game/Joeys_Code/Player_Huds/Main_HUD_Auto6.uasset'
+[2020.10.30-14.26.54:086][731]LogFileHelpers: Auto-saving content packages took 0.116
+[2020.10.30-14.27.50:402][489]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.27.50:404][489]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.27.50:405][489]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.27.50:424][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.10.30-14.27.53:135][802]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.27.53:601][858]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.27.53:751][876]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.27.53:918][896]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.27.54:685][988]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.27.54:842][  7]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.27.55:027][ 29]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.28.27:320][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joeys_Code/Player_Huds/Main_HUD" FILE="../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Joeys_Code/Player_Huds/Main_HUD.uasset" SILENT=true
+[2020.10.30-14.28.27:335][727]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Main_HUD4EE8300C4A9F345F96B322BA2E4DDC9A.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Joeys_Code/Player_Huds/Main_HUD.uasset'
+[2020.10.30-14.28.27:553][727]AssetCheck: New page: Asset Save: Main_HUD
+[2020.10.30-14.28.27:553][727]LogContentValidation: Display: Validating WidgetBlueprint /Game/Joeys_Code/Player_Huds/Main_HUD.Main_HUD
+[2020.10.30-14.28.28:491][839]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.28.28:493][839]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.28.28:493][839]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.28.28:514][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.10.30-14.28.32:061][251]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.28.32:219][270]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.28.33:094][375]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.28.33:270][396]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar), cannot focus it
+[2020.10.30-14.28.34:740][559]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.28.34:741][559]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.28.34:742][559]LogBlueprint: Error: [Compiler Main_HUD] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' ProgressBar ': Binding: 'None' : 'None' was not found on 'Main HUD'.
+[2020.10.30-14.28.34:762][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.10.30-14.29.06:110][ 42]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.29.06:136][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.10.30-14.29.53:386][483]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.29.53:407][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.10.30-14.30.45:513][180]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.30.45:535][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.10.30-14.31.04:908][ 86]BlueprintLog: New page: Compile Main_HUD
+[2020.10.30-14.31.04:930][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.10.30-14.31.06:588][267]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.30-14.31.06:588][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.30-14.31.06:603][267]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.30-14.31.06:603][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.30-14.31.07:998][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_Dev" FILE="../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Maps/Level1_Dev.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.30-14.31.08:018][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.10.30-14.31.08:774][389]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Level1_Dev17D996C74797AA219A772EA6261E126E.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Maps/Level1_Dev.umap'
+[2020.10.30-14.31.09:245][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_Dev_BuiltData" FILE="../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Maps/Level1_Dev_BuiltData.uasset" SILENT=true
+[2020.10.30-14.31.10:496][389]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Level1_Dev_BuiltData734A2E074DF9721625AE3596441740F9.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Maps/Level1_Dev_BuiltData.uasset'
+[2020.10.30-14.31.10:521][389]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.30-14.31.10:521][389]LogContentValidation: Display: Validating World /Game/Maps/Level1_Dev.Level1_Dev
+[2020.10.30-14.31.10:521][389]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_Dev_BuiltData.Level1_Dev_BuiltData
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:093][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:094][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.14:094][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/130163/Documents/Unreal Projects/Null'
+[2020.10.30-14.31.15:858][717]LogSlate: Window 'Save Content' being destroyed
+[2020.10.30-14.31.15:995][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joeys_Code/Player_Huds/Main_HUD" FILE="../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Joeys_Code/Player_Huds/Main_HUD.uasset" SILENT=true
+[2020.10.30-14.31.16:014][717]LogSavePackage: Moving '../../../../../../Users/130163/Documents/Unreal Projects/Null/Saved/Main_HUD7128A3A845767E4B82BA5BAA43BD6B17.tmp' to '../../../../../../Users/130163/Documents/Unreal Projects/Null/Content/Joeys_Code/Player_Huds/Main_HUD.uasset'
+[2020.10.30-14.31.30:545][717]LogSlate: Window 'Submit Files' being destroyed
+[2020.10.30-14.31.35:313][717]LogSourceControl: commit successful: [Level1_Dev 7cfd95a] Added Code for Huds and workin on battery and uranium pickups
+[2020.10.30-14.31.35:455][717]SourceControl: [Level1_Dev 7cfd95a] Added Code for Huds and workin on battery and uranium pickups
+[2020.10.30-14.31.35:455][717]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2020.10.30-14.31.35:455][717]SourceControl:  create mode 100644 Content/Joeys_Code/Player_Huds/Main_HUD.uasset
+[2020.10.30-14.31.35:470][717]SourceControl: Commited [Level1_Dev 7cfd95a] Added Code for Huds and workin on battery and uranium pickups.
+[2020.10.30-14.31.35:509][718]AssetCheck: New page: Asset Save: Main_HUD
+[2020.10.30-14.31.35:509][718]LogContentValidation: Display: Validating WidgetBlueprint /Game/Joeys_Code/Player_Huds/Main_HUD.Main_HUD
